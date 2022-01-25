@@ -5,7 +5,7 @@ It supports the following languages: English, French, Spanish, Chinese, Japanese
 
 ## Installation
 
-Install the googletrans package using pip through Command Prompt on your local computer.
+Install the googletrans package using pip through Command Prompt on your local computer before running the program.
 ```
 pip install googletrans==3.1.0a0
 ```
